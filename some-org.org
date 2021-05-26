@@ -1,8 +1,13 @@
 # -*- mode: org -*-
-#+startup: showall
 #+title: Some org mode
-#+author: Aroldo Souza-Leite
 #+date: 2021-05-26
+#+author: Aroldo Souza-Leite
+#+email:  asouzaleite@gmx.de
+#+export_select_tags: export
+#+export_exclude_tags: noexport
+#+options: H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
+#+startup: showall
+
 
 * Welcome to Org mode
 
