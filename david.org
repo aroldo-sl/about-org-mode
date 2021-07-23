@@ -1,0 +1,25 @@
+#+title:Davids Org Tutorial
+#+date: 2021-07-05T16:44:23
+#+author: Aroldo Souza-Leite
+#+email:  asouzaleite@gmx.de
+#+export_select_tags: export
+#+export_exclude_tags: noexport
+#+startup: showall
+# BEGIN CONTENT
+* DONE start learning Davids Org Tutorial
+  CLOSED: [2021-07-05 Mo 16:46]
+* TODO take a closer look at the Spacemacs Org key bindings
+* Heading:
+  It was quite difficult to insert a heading in Org mode.
+  http://www.heise.de
+
+  file://home/aroldo/.spacemacs.d
+ 
+  
+  
+  
+  
+ 
+# END CONTENT
+
+

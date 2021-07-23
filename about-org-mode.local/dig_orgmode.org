@@ -16,11 +16,4 @@ v The topic 2
     Some text in topic 3.1.1
     Some more text in topc 3.1.1
 * The topic 4
-  Some text in topc 4
-** subtopic
-** 
-  
-  
-  
-
   

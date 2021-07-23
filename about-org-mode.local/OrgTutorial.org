@@ -14,5 +14,5 @@ using M-up and M-down. You can change the level of the headings with M-left
 and M-right (and use M-S-left and M-S-right to change the level of subheadings.)
 
 
-* another heading
-Some text in another heading.
+* another subheading   
+Some text in another subheading.
