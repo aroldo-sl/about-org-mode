@@ -7,19 +7,37 @@
 #+startup: showall
 # BEGIN CONTENT
 * DONE start learning Davids Org Tutorial
+
   CLOSED: [2021-07-05 Mo 16:46]
+
+
+** Subsection 1
+   Some text in subsection 1
+   <2022-10-22 Sa>
+   <2022-10-10 Mo>
+   <2022-10-02 So>
+   <2022-10-22 Sa>
+   <2022-10-01 Sa>
+   
+** Subsection 1a
+
+** Subsection 2
+   Some text in subsection 2
+* 
 * TODO take a closer look at the Spacemacs Org key bindings
+
 * Heading:
   It was quite difficult to insert a heading in Org mode.
   http://www.heise.de
-
   file://home/aroldo/.spacemacs.d
- 
-  
-  
-  
-  
- 
+
 # END CONTENT
 
 
+
+** Subheading
+   Why is it not indenting?
+
+** Another subheading
+   x
+   y
