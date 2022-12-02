@@ -1,3 +1,5 @@
+
+
 #+title:Davids Org Tutorial
 #+date: 2021-07-05T16:44:23
 #+author: Aroldo Souza-Leite
@@ -12,6 +14,8 @@
 
 
 ** Subsection 1
+
+** 
    Some text in subsection 1
    <2022-10-22 Sa>
    <2022-10-10 Mo>
@@ -19,15 +23,24 @@
    <2022-10-22 Sa>
    <2022-10-01 Sa>
    
+** kdjlkfdlkjflkd
+hallo
+
+
 ** Subsection 1a
+
+** 
 
 ** Subsection 2
    Some text in subsection 2
-* 
 * TODO take a closer look at the Spacemacs Org key bindings
 
+
+
 * Heading:
-  It was quite difficult to insert a heading in Org mode.
+
+
+It was quite difficult to insert a heading in Org mode.
   http://www.heise.de
   file://home/aroldo/.spacemacs.d
 
@@ -35,9 +48,20 @@
 
 
 
-** Subheading
+** S
+
+** 
+
+** ubheading
+
+** 
    Why is it not indenting?
 
+** kjhkjh
+
+** 
 ** Another subheading
    x
    y
+
+* New heading
